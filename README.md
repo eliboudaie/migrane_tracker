@@ -2,7 +2,7 @@
 
 ## Project Details
 
-TODO: Write project details.
+This is my first Django project - I'm creating a website to track migraine patterns
 
 ## Future Ideas
 
